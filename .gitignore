@@ -1,0 +1,25 @@
+
+# xcode noise
+DerivedData
+xcuserdata
+project.xcworkspace
+build/*
+
+# osx noise
+.DS_Store
+
+# appcode
+.idea
+!.idea/codeStyleSettings.xml
+
+# CocoaPods
+Pods/
+
+# SPM
+VLife.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Fastlane
+fastlane/report.xml
+
+# Build times
+buildtimes.log
